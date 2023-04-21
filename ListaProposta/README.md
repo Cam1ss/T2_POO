@@ -2,4 +2,5 @@
 
 | Questões | Enunciado |
 | ------------- | -------------- |
-|  `01`  | Façaum programa que receba quatro números inteiros, calcule e mostre a soma desses números  |
+|  `18`  | **Faça um programa que receba a idade de uma pessoa e mostre a mensagem de maioridade ou não.** |
+|  `19`  | **Faça um programa que receba a altura e o sexo de uma pessoa e que calcule e mostre o seu peso ideal, utilizando as seguintes fórmulas:** <br> <br> _+ para homens: (72.7 * h) — 58_ <br> _+ para mulheres: (62.1 * h) — 44.7_ |
